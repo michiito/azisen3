@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66B9895E-F0C5-457C-82DD-1D291160F970"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F89152D-911E-44DC-B5B9-298D8F1D8BCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "azisen3/history4ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "azisen3/history4ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "history4ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E - 52089afd31c093f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "azisen3.history4ViewController.__deallocating_deinit"
+                  moduleName = "azisen3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/itoumichi/Desktop/azisen3/azisen3/history4ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E - f08e2df875e0d221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "azisen3.history4ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; azisen3.history4ViewController"
+                  moduleName = "azisen3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/itoumichi/Desktop/azisen3/azisen3/history4ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E - c1e5a6f747457bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "azisen3.history4ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; azisen3.history4ViewController"
+                  moduleName = "azisen3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/itoumichi/Desktop/azisen3/azisen3/history4ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "738">
+               </Location>
+               <Location
+                  uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E - 42e68fa6832f2de8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "azisen3.history4ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;azisen3.history4ViewController&gt;"
+                  moduleName = "azisen3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/itoumichi/Desktop/azisen3/azisen3/history4ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA4CCAA3-9CB8-4EAF-BDCB-BDC4FDD5074E - 1188f93bdbcb0b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "azisen3.history4ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;azisen3.history4ViewController&gt;"
+                  moduleName = "azisen3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/itoumichi/Desktop/azisen3/azisen3/history4ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "679">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
